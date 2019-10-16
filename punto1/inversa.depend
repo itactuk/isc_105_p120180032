@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1571180072 source:c:\users\20180032\desktop\inversa\main.c
+	<stdio.h>
+	<stdlib.h>
+
